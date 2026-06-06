@@ -1,0 +1,51 @@
+Station,City,State,Date,PM2.5,PM10,NO2,SO2,CO,Ozone,AQI
+Anand Vihar,Delhi,Delhi,2024-01-15,285.3,420.1,76.2,15.3,2.8,48.2,285
+ITO,Delhi,Delhi,2024-01-15,275.1,410.8,72.4,14.1,2.6,44.7,278
+Dwarka Sector 8,Delhi,Delhi,2024-01-15,290.4,425.3,78.1,16.2,3.0,50.1,292
+Anand Vihar,Delhi,Delhi,2024-01-16,,415.2,74.1,15.8,2.7,46.3,281
+ITO,Delhi,Delhi,2024-01-16,280.2,408.4,71.9,13.9,2.5,43.8,282
+Worli,Mumbai,Maharashtra,2024-01-15,148.2,220.3,55.4,12.1,1.8,32.4,152
+Bandra,Mumbai,Maharashtra,2024-01-15,142.7,212.8,52.1,11.8,1.7,30.9,145
+Colaba,Mumbai,Maharashtra,2024-01-15,145.9,216.4,53.8,12.0,1.8,31.7,148
+Worli,Mumbai,Maharashtra,2024-01-16,150.1,224.5,56.2,12.3,1.9,33.1,150
+Bandra,Mumbai,Maharashtra,2024-01-16,144.3,214.6,52.9,11.9,1.7,31.2,144
+Silk Board,Bengaluru,Karnataka,2024-01-15,88.1,145.2,42.3,8.7,1.2,28.4,89
+Hebbal,Bengaluru,Karnataka,2024-01-15,85.4,140.8,40.1,8.2,1.1,27.1,86
+BTM Layout,Bengaluru,Karnataka,2024-01-15,90.2,148.1,43.5,9.0,1.2,29.2,91
+Silk Board,Bengaluru,Karnataka,2024-01-16,87.3,143.9,41.8,8.5,1.2,28.0,88
+Hebbal,Bengaluru,Karnataka,2024-01-16,84.1,139.2,39.7,8.1,1.1,26.8,85
+Bapu Nagar,Jaipur,Rajasthan,2024-01-15,198.4,312.5,64.8,14.2,2.2,38.6,202
+Polo Victory,Jaipur,Rajasthan,2024-01-15,193.2,305.1,62.4,13.8,2.1,37.2,196
+Muralipura,Jaipur,Rajasthan,2024-01-15,196.8,308.9,63.7,14.0,2.1,38.0,199
+Bapu Nagar,Jaipur,Rajasthan,2024-01-16,200.1,315.2,65.4,14.5,2.2,39.1,205
+Polo Victory,Jaipur,Rajasthan,2024-01-16,195.4,307.8,63.1,14.0,2.1,37.8,198
+Rabindra Sarobar,Kolkata,West Bengal,2024-01-15,222.8,340.5,70.2,15.8,2.4,42.3,228
+Ballygunge,Kolkata,West Bengal,2024-01-15,218.4,334.2,68.7,15.4,2.3,41.1,222
+Fort William,Kolkata,West Bengal,2024-01-15,225.1,344.8,71.4,16.0,2.5,43.0,230
+Rabindra Sarobar,Kolkata,West Bengal,2024-01-16,220.3,338.1,69.5,15.6,2.4,42.0,225
+Ballygunge,Kolkata,West Bengal,2024-01-16,216.9,331.4,68.0,15.2,2.3,40.7,220
+Chandkheda,Ahmedabad,Gujarat,2024-01-15,175.3,278.4,60.2,13.5,2.0,36.8,178
+AUDA,Ahmedabad,Gujarat,2024-01-15,172.1,272.8,58.7,13.1,1.9,35.9,175
+Bopal,Ahmedabad,Gujarat,2024-01-15,177.8,281.2,61.4,13.8,2.0,37.4,180
+Chandkheda,Ahmedabad,Gujarat,2024-01-16,176.2,279.6,60.8,13.6,2.0,37.1,179
+AUDA,Ahmedabad,Gujarat,2024-01-16,173.4,274.5,59.2,13.3,1.9,36.2,176
+Sector 22,Chandigarh,Chandigarh,2024-01-15,75.2,125.4,38.2,8.1,1.1,25.4,76
+Industrial Area,Chandigarh,Chandigarh,2024-01-15,72.8,121.8,36.9,7.8,1.0,24.8,74
+Sector 25,Chandigarh,Chandigarh,2024-01-15,74.1,123.6,37.6,8.0,1.1,25.1,75
+Sector 22,Chandigarh,Chandigarh,2024-01-16,73.4,122.5,37.0,7.9,1.0,24.9,74
+Industrial Area,Chandigarh,Chandigarh,2024-01-16,71.9,120.2,36.4,7.7,1.0,24.5,73
+Alwal,Hyderabad,Telangana,2024-01-15,118.4,188.5,50.2,11.2,1.6,32.8,120
+Bollaram,Hyderabad,Telangana,2024-01-15,115.2,183.8,48.7,10.8,1.5,31.9,116
+Somajiguda,Hyderabad,Telangana,2024-01-15,120.1,191.2,51.4,11.5,1.6,33.4,122
+Alwal,Hyderabad,Telangana,2024-01-16,117.3,186.9,49.8,11.1,1.6,32.5,118
+Bollaram,Hyderabad,Telangana,2024-01-16,114.7,182.4,48.2,10.7,1.5,31.6,115
+Manali,Chennai,Tamil Nadu,2024-01-15,112.3,178.4,48.4,10.8,1.5,30.9,114
+Alandur,Chennai,Tamil Nadu,2024-01-15,109.8,174.2,47.1,10.4,1.5,30.2,111
+Velachery,Chennai,Tamil Nadu,2024-01-15,113.6,180.1,49.0,11.0,1.6,31.3,115
+Manali,Chennai,Tamil Nadu,2024-01-16,111.5,177.0,47.9,10.7,1.5,30.6,113
+Alandur,Chennai,Tamil Nadu,2024-01-16,108.4,172.8,46.8,10.3,1.5,29.9,110
+Shivajinagar,Pune,Maharashtra,2024-01-15,92.4,152.3,44.2,9.4,1.3,30.1,93
+Karve Road,Pune,Maharashtra,2024-01-15,89.8,148.1,42.8,9.1,1.2,29.3,91
+Hadapsar,Pune,Maharashtra,2024-01-15,94.1,155.2,45.1,9.6,1.3,30.7,95
+Shivajinagar,Pune,Maharashtra,2024-01-16,91.2,150.4,43.5,9.2,1.3,29.8,92
+Karve Road,Pune,Maharashtra,2024-01-16,88.5,146.8,42.2,9.0,1.2,28.9,90

@@ -1,0 +1,92 @@
+[
+  {
+    "city": "Chandigarh",
+    "neural_score": 82,
+    "aqi_score": 85,
+    "aqi_raw": 75,
+    "livability_index": 83.2,
+    "lat": 30.7,
+    "lon": 76.8
+  },
+  {
+    "city": "Pune",
+    "neural_score": 80,
+    "aqi_score": 82,
+    "aqi_raw": 92,
+    "livability_index": 80.8,
+    "lat": 18.5,
+    "lon": 73.9
+  },
+  {
+    "city": "Bengaluru",
+    "neural_score": 78,
+    "aqi_score": 82,
+    "aqi_raw": 88,
+    "livability_index": 79.6,
+    "lat": 12.9,
+    "lon": 77.6
+  },
+  {
+    "city": "Hyderabad",
+    "neural_score": 75,
+    "aqi_score": 76,
+    "aqi_raw": 118,
+    "livability_index": 75.4,
+    "lat": 17.4,
+    "lon": 78.5
+  },
+  {
+    "city": "Chennai",
+    "neural_score": 70,
+    "aqi_score": 78,
+    "aqi_raw": 112,
+    "livability_index": 73.2,
+    "lat": 13.1,
+    "lon": 80.3
+  },
+  {
+    "city": "Mumbai",
+    "neural_score": 72,
+    "aqi_score": 70,
+    "aqi_raw": 148,
+    "livability_index": 71.2,
+    "lat": 19.0,
+    "lon": 72.8
+  },
+  {
+    "city": "Ahmedabad",
+    "neural_score": 74,
+    "aqi_score": 64,
+    "aqi_raw": 178,
+    "livability_index": 70.0,
+    "lat": 23.0,
+    "lon": 72.6
+  },
+  {
+    "city": "Jaipur",
+    "neural_score": 68,
+    "aqi_score": 60,
+    "aqi_raw": 198,
+    "livability_index": 64.8,
+    "lat": 26.9,
+    "lon": 75.8
+  },
+  {
+    "city": "Kolkata",
+    "neural_score": 60,
+    "aqi_score": 55,
+    "aqi_raw": 225,
+    "livability_index": 58.0,
+    "lat": 22.6,
+    "lon": 88.4
+  },
+  {
+    "city": "Delhi",
+    "neural_score": 65,
+    "aqi_score": 43,
+    "aqi_raw": 285,
+    "livability_index": 56.2,
+    "lat": 28.6,
+    "lon": 77.2
+  }
+]
