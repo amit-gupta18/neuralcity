@@ -1,0 +1,138 @@
+city,station_name,aqi_us,pm25_ugm3,pm10_ugm3,co_ppb,so2_ppb,no2_ppb,o3_ppb,temperature_c,humidity_pct,timestamp,source_url
+Delhi,Aerocity,80,26,36,148,8,32,35,39,31,2026-06-06 15:51,https://www.aqi.in/dashboard/india/delhi/new-delhi
+Delhi,Ajay Enclave,84,27,32,148,8,32,35,39,31,2026-06-06 15:51,https://www.aqi.in/dashboard/india/delhi/new-delhi
+Delhi,Alaknanda,75,24,31,148,8,32,35,39,31,2026-06-06 15:51,https://www.aqi.in/dashboard/india/delhi/new-delhi
+Delhi,Alaknanda Station 1,97,34,42,148,8,32,35,39,31,2026-06-06 15:51,https://www.aqi.in/dashboard/india/delhi/new-delhi
+Delhi,Anand Lok,75,24,30,148,8,32,35,39,31,2026-06-06 15:51,https://www.aqi.in/dashboard/india/delhi/new-delhi
+Delhi,Anand Vihar (CPCB),185,,,,,,,37,40,2026-06-06 15:00,https://aqicn.org/city/delhi/
+Delhi,Dayal Park,165,,,,,,,39,31,2026-06-06 15:51,https://www.aqi.in/dashboard/india/delhi/new-delhi
+Delhi,Alipur,165,,,,,,,39,31,2026-06-06 15:51,https://www.iqair.com/india/delhi
+Delhi,Bawana,165,,,,,,,39,31,2026-06-06 15:51,https://www.iqair.com/india/delhi
+Delhi,Karol Bagh,165,,,,,,,39,31,2026-06-06 15:51,https://www.iqair.com/india/delhi
+Delhi,Nangloi Jat,165,,,,,,,39,31,2026-06-06 15:51,https://www.iqair.com/india/delhi
+Delhi,Pitampura,165,,,,,,,39,31,2026-06-06 15:51,https://www.iqair.com/india/delhi
+Delhi,Shahdara,81,,,,,,,39,31,2026-06-06 16:00,https://www.iqair.com/india/delhi
+Delhi,Deoli,66,,,,,,,39,31,2026-06-06 16:00,https://www.iqair.com/india/delhi
+Delhi,Defence Colony,109,,,,,,,39,31,2026-06-06 16:00,https://www.iqair.com/india/delhi
+Mumbai,Sion (CPCB),85,,,,,,,35,71,2026-06-06 15:00,https://aqicn.org/city/mumbai/
+Mumbai,Ambivali,60,14,19,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Andheri East,52,13,26,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Anushakti Nagar,54,14,34,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Bandra East,54,14,17,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Bandra Kurla Complex,52,13,18,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Bandra West Station 1,69,19,24,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Bhandup West,56,15,22,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Borivali East,50,12,15,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Borivali West,50,12,15,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Colaba,65,19,22,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Juhu,54,14,18,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Kurla,54,14,18,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Mahim,52,13,19,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Malad,56,15,26,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Mazgaon,56,15,27,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Santacruz West,64,16,21,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Sarvodaya Nagar Station 1,79,24,29,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Sion Station 2,73,21,25,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Wadala East,68,18,24,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Mumbai,Worli,52,13,19,,,,,35,71,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/mumbai
+Bengaluru,Peenya (CPCB),190,,,,,,,26,94,2026-06-06 15:00,https://aqicn.org/city/bangalore/
+Bengaluru,City Railway Station,83,,,,,,,26,94,2026-06-06 15:00,https://aqicn.org/city/bangalore/
+Bengaluru,Silk Board,63,,,,,,,26,74,2026-06-06 15:00,https://aqicn.org/city/bangalore/
+Bengaluru,BTM Layout,58,12,15,,,,,26,74,2026-06-06 15:00,https://aqicn.org/city/bangalore/
+Bengaluru,Jayanagar 5th Block,58,,,,,,,26,74,2026-06-06 15:00,https://aqicn.org/city/bangalore/
+Bengaluru,Hombegowda Nagar,50,,,,,,,26,74,2026-06-06 15:00,https://aqicn.org/city/bangalore/
+Bengaluru,Hebbal,49,,,,,,,26,74,2026-06-06 15:00,https://aqicn.org/city/bangalore/
+Bengaluru,BWSSB Kadabesanahalli,30,,,,,,,26,74,2026-06-06 15:00,https://aqicn.org/city/bangalore/
+Bengaluru,Bapuji Nagar,15,,,,,,,26,74,2026-06-06 15:00,https://aqicn.org/city/bangalore/
+Bengaluru,Krishnarajapuram,179,96,120,,,,,25,79,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Electronic City Phase 1,124,45,51,,,,,44,14,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Richmond Town Station 2,82,26,31,,,,,25,79,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Peenya,73,23,25,,,,,25,79,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Jc Nagar,75,22,26,,,,,25,79,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Gowda Muniswamy Garden,69,19,22,,,,,26,74,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Skylite Vesta Villas,71,20,23,,,,,25,79,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Tatanagar,71,20,23,,,,,25,79,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Bds Layout,62,15,18,,,,,25,79,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Malleshwaram Sampige Metro Station,69,19,21,,,,,25,79,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Shanti Nagar,69,21,26,,,,,25,79,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Addischetan Layout,60,14,15,,,,,26,74,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Koramangala,52,13,15,,,,,26,74,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Whitefield,50,12,18,,,,,25,79,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Bengaluru,Indiranagar (Basavanagudi),58,16,20,,,,,26,74,2026-06-06 15:51,https://www.aqi.in/dashboard/india/karnataka/bangalore
+Chennai,Kodungaiyur (CPCB),74,,,,,,,30,69,2026-06-06 15:00,https://aqicn.org/city/chennai/
+Chennai,Abhiramapuram,52,13,16,215,2,4,19,30,69,2026-06-06 15:51,https://www.aqi.in/dashboard/india/tamil-nadu/chennai
+Chennai,Achuthan Nagar,38,9,14,215,2,4,19,30,69,2026-06-06 15:51,https://www.aqi.in/dashboard/india/tamil-nadu/chennai
+Chennai,Alwar Nagar,44,8,9,215,2,4,19,30,69,2026-06-06 15:51,https://www.aqi.in/dashboard/india/tamil-nadu/chennai
+Chennai,Balamurugan Nagar,75,22,26,215,2,4,19,30,69,2026-06-06 15:51,https://www.aqi.in/dashboard/india/tamil-nadu/chennai
+Chennai,Kadaperi,33,6,7,215,2,4,19,30,69,2026-06-06 15:51,https://www.aqi.in/dashboard/india/tamil-nadu/chennai
+Chennai,West Tambaram,33,6,6,215,2,4,19,30,69,2026-06-06 15:51,https://www.aqi.in/dashboard/india/tamil-nadu/chennai
+Hyderabad,Somajiguda (CPCB),738,,,,,,,36,36,2026-06-06 15:00,https://aqicn.org/city/hyderabad/
+Hyderabad,Ahs Colony,66,17,20,,,,,36,37,2026-06-06 15:41,https://www.aqi.in/dashboard/india/telangana/hyderabad
+Hyderabad,Ambedkar Nagar,81,25,30,,,,,36,37,2026-06-06 15:41,https://www.aqi.in/dashboard/india/telangana/hyderabad
+Hyderabad,Ambience Fort,64,16,17,,,,,36,37,2026-06-06 15:41,https://www.aqi.in/dashboard/india/telangana/hyderabad
+Hyderabad,Ambience Fort Station 1,122,44,53,,,,,36,37,2026-06-06 15:41,https://www.aqi.in/dashboard/india/telangana/hyderabad
+Hyderabad,Anand Banjara Colony,84,27,32,,,,,36,37,2026-06-06 15:41,https://www.aqi.in/dashboard/india/telangana/hyderabad
+Hyderabad,Annojiguda,77,23,26,,,,,36,37,2026-06-06 15:41,https://www.aqi.in/dashboard/india/telangana/hyderabad
+Kolkata,Ghusuri Howrah (CPCB),114,,,,,,,29,82,2026-06-06 15:00,https://aqicn.org/city/kolkata/
+Kolkata,South Sinthee,153,58,70,323,2,16,22,29,82,2026-06-06 15:41,https://www.aqi.in/dashboard/india/west-bengal/kolkata
+Kolkata,Beniapukur,144,53,65,323,2,16,22,29,82,2026-06-06 15:41,https://www.aqi.in/dashboard/india/west-bengal/kolkata
+Kolkata,Government Colony,139,51,62,323,2,16,22,29,82,2026-06-06 15:41,https://www.aqi.in/dashboard/india/west-bengal/kolkata
+Kolkata,Manicktala,137,50,62,323,2,16,22,29,82,2026-06-06 15:41,https://www.aqi.in/dashboard/india/west-bengal/kolkata
+Kolkata,Kaikhali,134,49,60,323,2,16,22,29,82,2026-06-06 15:41,https://www.aqi.in/dashboard/india/west-bengal/kolkata
+Kolkata,Ee Block,122,44,54,323,2,16,22,29,82,2026-06-06 15:41,https://www.aqi.in/dashboard/india/west-bengal/kolkata
+Kolkata,Kankurgachi,77,23,26,323,2,16,22,29,82,2026-06-06 15:41,https://www.aqi.in/dashboard/india/west-bengal/kolkata
+Pune,Shivajinagar (CPCB),232,,,,,,,,,2021-11-15 06:00,https://aqicn.org/city/pune/
+Pune,Alandi,54,14,21,,,,,34,39,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/pune
+Pune,Balewadi Phata,82,26,31,,,,,35,38,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/pune
+Pune,Baner Gaon,79,24,28,,,,,35,38,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/pune
+Pune,Hadapsar,60,17,24,,,,,35,38,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/pune
+Pune,Lohegaon,56,15,19,,,,,35,37,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/pune
+Pune,Mahalunge Station 1,86,28,34,,,,,34,39,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/pune
+Pune,National Games Park,86,28,32,,,,,34,39,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/pune
+Pune,Shinde Vasti,92,31,39,,,,,35,37,2026-06-06 15:51,https://www.aqi.in/dashboard/india/maharashtra/pune
+Ahmedabad,Phase-4 GIDC Vatva (CPCB),156,,,,,,,37,32,2026-06-06 15:00,https://aqicn.org/city/ahmedabad/
+Ahmedabad,Aam Baag Adalaj Koba Highway,66,17,20,196,12,11,24,37,37,2026-06-06 15:51,https://www.aqi.in/dashboard/india/gujarat/ahmedabad
+Ahmedabad,Khodiyar,79,24,29,196,12,11,24,37,37,2026-06-06 15:51,https://www.aqi.in/dashboard/india/gujarat/ahmedabad
+Ahmedabad,Phase I GIDC,80,26,38,196,12,11,24,36,37,2026-06-06 15:51,https://www.aqi.in/dashboard/india/gujarat/ahmedabad
+Ahmedabad,Premchand Nagar Society,81,25,29,196,12,11,24,37,37,2026-06-06 15:51,https://www.aqi.in/dashboard/india/gujarat/ahmedabad
+Ahmedabad,CP Nagar 1,58,16,19,196,12,11,24,37,37,2026-06-06 15:51,https://www.aqi.in/dashboard/india/gujarat/ahmedabad
+Jaipur,Agarwal Farm Station 1,84,27,34,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Agrasen Housing Society,82,27,29,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Block E,71,20,24,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,CBI Colony,58,13,15,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Chitrakoot Sector 1,79,24,28,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Dholai,77,23,30,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Ganesh Nagar,81,25,29,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Gujar Ki Thadi,75,22,26,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Gujar Ki Thadi Station 1,82,26,31,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Hathroi,86,29,42,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Jawahar Nagar,71,22,34,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Jhotwara,80,26,44,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Jhotwara Industrial Area,73,21,23,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Kanti Nagar,82,26,31,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Karolan Ka Barh,82,26,31,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Kasturba Nagar,81,25,32,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Murlipura Scheme,84,27,32,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Pratap Nagar Sector 11,73,21,25,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Ramganj Bazar,90,30,35,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Shankar Nagar,92,31,37,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Sitapura Industrial Area,79,24,30,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Subhash Colony,71,22,32,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Vaishali Nagar,86,28,34,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Jaipur,Ward 27,69,21,38,378,4,34,21,37,40,2026-06-06 15:51,https://www.aqi.in/dashboard/india/rajasthan/jaipur
+Chandigarh,BSNL Road,77,23,26,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Daria,73,23,30,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Modern Housing Complex,84,27,31,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,New Dayal Bagh,82,27,27,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 10D,84,27,31,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 11C,82,26,30,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 17,71,22,29,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 20D,82,26,30,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 21,75,24,33,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 25,80,26,40,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 33,75,24,31,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 51,73,23,28,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 8C,80,26,32,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 8A,84,27,31,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 9A,75,22,25,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
+Chandigarh,Sector 9A Station 1,81,25,28,298,2,7,39,42,15,2026-06-06 15:21,https://www.aqi.in/dashboard/india/chandigarh/chandigarh
